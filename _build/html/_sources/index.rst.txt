@@ -39,6 +39,7 @@ Index
    docs/01
    docs/02
    docs/03
+   docs/04
 
 
 Citation
