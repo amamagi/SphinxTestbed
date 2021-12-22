@@ -1,18 +1,46 @@
-.. SphinxTestbed documentation master file, created by
-   sphinx-quickstart on Wed Dec 22 17:33:31 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+===============
+クソデカ羅生門
+===============
 
-Welcome to SphinxTestbed's documentation!
-=========================================
+Installation
+=============
+* ある日の
+   * 超暮方(ほぼ夜)の
+   * 事である
+* 一人の下人が
+   * クソデカい
+      * 羅生門の
+         * 完全な真下で
+   * 雨やみを
+      * 気持ち悪いほど
+         * ずっと待ちまくっていた
 
+Quickstart
+=============
+1.  馬鹿みたいに広い門の真下には
+
+   1. この大男のほかに全然誰もいない
+
+2. ただ、所々丹塗のびっくりするくらい剥げた
+
+   i. 信じられないほど大きな円柱に
+   ii. 象くらいある蟋蟀が一匹とまっている
+
+3. クソデカ羅生門が
+
+   a. 大河のように広い朱雀大路にある以上は
+   b. この狂った男のほかにも
+   c. 激・雨やみをする巨大市女笠や爆裂揉烏帽子が
+   d. もう二三百人はありそうなものである
+
+Index
+=============
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   docs/01
+   docs/02
+   docs/03
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Citation
+==============
+* `クソデカ羅生門 <https://anond.hatelabo.jp/20200611125508>`_
